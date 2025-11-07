@@ -1,0 +1,1 @@
+savedcmd_/home/mustafa/Documents/driver/build/main.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/mustafa/Documents/driver/build/main.ko /home/mustafa/Documents/driver/build/main.o /home/mustafa/Documents/driver/build/main.mod.o
